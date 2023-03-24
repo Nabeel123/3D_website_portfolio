@@ -135,6 +135,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2019 - Dec 2021",
     points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
       "React, Angular frontend frameworks",
       "Webpack for module bundlers",
       "GraphQL or REST APIs for communicating with microservices",
