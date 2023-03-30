@@ -162,11 +162,12 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Feb 2022 - Present",
     points: [
-      "The MEAN stack is a full-stack JavaScript solution that includes MongoDB, Express.js, AngularJS, and Node.js. A developer with 3 years of experience in the MEAN stack will be comfortable with all these technologies and can develop and deploy web applications using the stack.",
-      "Amazon Web Services (AWS) is a cloud platform that offers various services for hosting, deploying, and managing web applications. A developer with 3 years of experience with AWS will be familiar with services like EC2, S3, RDS, and Lambda, and can use them to deploy, scale, and monitor web applications.",
-      "A MEAN stack with AWS developer will be proficient in using development tools like Git, Jenkins, Docker, and Kubernetes for version control, continuous integration, and deployment",
-      "A developer with 3 years of experience will have a good understanding of web application security and how to implement security measures on AWS, such as using AWS Identity and Access Management (IAM), Security Groups, and Virtual Private Clouds (VPCs)",
-      "A MEAN stack with AWS developer will have experience working in an Agile environment, including using tools like JIRA and Confluence for project management and collaboration",
+      "Amazon Web Services (AWS) is a cloud platform that offers various services for hosting, deploying, and managing web applications. Familiar with services like EC2, S3, RDS, and Lambda, and can use them to deploy, scale, and monitor web applications.",
+      "Proficient in using development tools like Git, Jenkins, Docker, and Kubernetes for version control, continuous integration, and deployment",
+      "Experience working in an Agile environment, including using tools like JIRA and Confluence for project management and collaboration",
+      "Wordpress Development and site Maintainence",
+      "SEO & Content Writing",
+      "Managing two departments SEO and Content Team"
     ],
   },
 ];
