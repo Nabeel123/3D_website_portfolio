@@ -162,7 +162,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Feb 2022 - Present",
     points: [
-      "Amazon Web Services (AWS) is a cloud platform that offers various services for hosting, deploying, and managing web applications. Familiar with services like EC2, S3, RDS, and Lambda, and can use them to deploy, scale, and monitor web applications.",
+      "MEAN & MERN Stack Development",
+      "Serverless Framework, Cloud watch and GPT-4 Devinci-Algorithm Integration in exisisting system",
+      "Flutter UI Creating",
+      "Familiar with services like EC2, S3, RDS, and Lambda, and can use them to deploy, scale, and monitor web applications.",
       "Proficient in using development tools like Git, Jenkins, Docker, and Kubernetes for version control, continuous integration, and deployment",
       "Experience working in an Agile environment, including using tools like JIRA and Confluence for project management and collaboration",
       "Wordpress Development and site Maintainence",
